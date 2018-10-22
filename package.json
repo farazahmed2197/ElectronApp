@@ -1,0 +1,22 @@
+{
+  "name": "electronapp",
+  "version": "1.0.0",
+  "description": "ElectronApp",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farazahmed2197/ElectronApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farazahmed2197/ElectronApp/issues"
+  },
+  "homepage": "https://github.com/farazahmed2197/ElectronApp#readme",
+  "dependencies": {
+    "electron": "^3.0.5"
+  }
+}
